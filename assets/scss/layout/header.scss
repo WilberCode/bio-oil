@@ -1,0 +1,136 @@
+ 
+
+// Toggle
+
+.header{
+    @apply fixed w-full top-0 left-0 right-0 z-50   ; 
+    
+    &-wrap{
+       @apply relative ; 
+       height: var(--header-height);
+    }  
+}
+
+.nav {   
+ 
+    @screen maxmd {
+        @apply  hidden; 
+
+    }
+    &-active { 
+        transform: translateY(0);
+        opacity: 1; 
+        display: block;
+        @screen maxmd {
+            @apply absolute bg-white left-0 w-full right-0 px-4;
+            top: var(--header-height)  ;
+            
+            .menu{
+                @apply  flex-col space-x-0 px-0 py-8  ;
+                a{
+                    @apply py-2 block text-sm;
+                    &:hover{
+                        @apply bg-body px-2;
+                    }
+                }
+            }
+    
+        }
+    }  
+    &-toggle {
+        &-wrap {   
+            @apply   h-[37.24px]; 
+        }  
+        transform: rotate(0deg);
+        transition: all .5s ease-in-out;
+        cursor: pointer; 
+        /* box-shadow: 0 0 0 8px var(--primary); */
+        @apply bg-body  w-[20.11px] h-[17.24px]; 
+        border-radius: 1px;
+       /*  &:focus{
+         box-shadow: 0 0 0 8px var(--primary); 
+        } */
+        span {
+            @apply bg-heading ;
+            display: block;
+            position: absolute;
+            height: 2.4px;
+            width: 50%; 
+            opacity: 1;
+            transform: rotate(0deg);
+            transition: all .2s ease-in-out; 
+            &:nth-child(even) {
+                left: 50%;
+            }
+
+            &:nth-child(odd) {
+                left: 0px;
+            }
+
+            &:nth-child(1),
+            &:nth-child(2) {
+                top: 0px;
+            }
+
+            &:nth-child(3),
+            &:nth-child(4) {
+                top: 7px;
+            }
+
+            &:nth-child(5),
+            &:nth-child(6) {
+                top: 14px;
+            }
+        }
+
+      @screen maxmd {
+        &.nav-toggle-active {
+            transform: scale(2.5);
+            span {
+
+                &:nth-child(1),
+                &:nth-child(6) {
+                    transform: rotate(45deg);
+                }
+
+                &:nth-child(2),
+                &:nth-child(5) {
+                    transform: rotate(-45deg);
+                }
+
+                &:nth-child(1) {
+                    left: 5px;
+                    top: 7px;
+                }
+
+                &:nth-child(2) {
+                    left: calc(50% - 5px);
+                    top: 7px;
+                }
+
+                &:nth-child(3) {
+                    left: -50%;
+                    opacity: 0;
+                }
+
+                &:nth-child(4) {
+                    left: 100%;
+                    opacity: 0;
+                }
+
+                &:nth-child(5) {
+                    left: 5px;
+                    top: 7px;
+                }
+
+                &:nth-child(6) {
+                    left: calc(50% - 5px);
+                    top: 7px;
+                }
+            }
+        }
+      }  
+    }  
+
+}
+

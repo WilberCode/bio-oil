@@ -1,0 +1,17 @@
+:root{
+    // Colors
+    --primary:#de496e;
+    --secondary:#de496e;
+    --header-height: 93px;
+    @screen maxmd {
+        --header-height: 80px;
+    }
+    @screen maxsm {
+        --header-height: 60px;
+    }
+ 
+}
+
+/* .container{
+@apply mx-auto;
+} */

@@ -1,0 +1,76 @@
+
+
+/* ./resources/sass/app.scss */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+ 
+@import "partials/font"; 
+@import "partials/base"; 
+@import "partials/variables"; 
+@import "layout/header"; 
+
+@layer components{
+    
+    .container{
+        @apply max-w-[1051px] mx-auto px-4 lg:px-0;
+        
+    }
+    .menu{
+        @apply flex m-0 text-heading space-x-6 lg:space-x-10;
+        li{
+            a{
+                @apply font-bold align-middle text-[18.36px] tracking-wider ;
+                position: relative;
+                &::after{
+                    content: ''; 
+                    background-image: url(../svg/down-disable.svg);
+                    @apply inline-block  align-middle ml-2 w-[13.28px] mt-1 h-[12.67px]  bg-no-repeat  text-heading; 
+                    background-size: 100%;   
+                }
+                &.active{ 
+                    @apply text-primary-500;
+                }
+                &.active::after{
+                    background-image: url(../svg/down-active.svg);
+
+                }
+            }
+        }
+    }
+
+
+    .card{
+        @apply bg-body sm:max-w-[339px] mx-auto ;
+        &-body{
+            @apply px-2 pt-[20px] sm:pt-[37.32px] pb-[40px]  sm:pb-[58.13px] text-center text-heading space-y-3;
+            h2{
+                @apply text-sm  sm:text-[18.62px] lg:text-[18.62px]  tracking-widest;
+            }
+            p{
+                @apply text-[15px] lg:text-[23.69px] tracking-[2px];
+            }
+        }
+    }
+    
+
+    @screen lg{
+        
+        .hide-pc{
+            @apply hidden;
+        }
+     }
+    @screen maxsm{
+        
+        .hide-mo{
+            @apply hidden;
+        }
+     }
+
+     .blog-post{
+         a{
+             @apply text-primary-500;
+         }
+     }
+   
+}

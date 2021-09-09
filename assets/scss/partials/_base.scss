@@ -1,0 +1,42 @@
+// Add any custom base CSS can go here
+
+
+// Foundation
+// =≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠
+html {
+  @apply antialiased ;
+  font-size: 16px;
+  text-rendering: optimizeLegibility; 
+  @apply font-helvetica #{!important};
+  // scroll-behavior: smooth;
+  // -webkit-font-smoothing: antialiased;
+  @screen md {
+    font-size: 18px;
+  }
+}
+ 
+
+body{ 
+  padding-top: var(--header-height);
+}
+// Anchors
+// =≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠
+a { 
+  transition: all 0.24s ease;
+} 
+h1 {
+  @apply text-2xl;
+}
+
+h2 {
+  @apply text-xl;
+}
+
+h3 {
+  @apply text-lg;
+}
+h4, h5 {
+  @apply text-sm;
+}
+ 
+ 
