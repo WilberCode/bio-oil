@@ -27,11 +27,10 @@
         </nav>
         <nav class="nav" id="nav">
             <ul class="menu">
-              <?php  //if( $isHome ) { echo '<li><a href="/">HOME</a></li>'; } ?> 
-             
-              <li><a href="<?=theDomainUrl();?>/tu-piel">ESPECIALISTAS EN PIEL</a></li>
+              <?php  //if( $isHome ) { echo '<li><a href="/">HOME</a></li>'; } ?>  
+              <li><a href="<?=theDomainUrl();?>/tu-piel" class="<?php  if( $currentpage == '/tu-piel/' ){ echo 'active'; } ?>" >ESPECIALISTAS EN PIEL</a></li>
               <li><a href="#">BELLEZA</a></li>
-              <li><a href="<?=theDomainUrl();?>/tu-ritual-de-belleza">ALIMENTACIÓN</a></li>
+              <li><a href="<?=theDomainUrl();?>/tu-ritual-de-belleza"  class="<?php  if( $currentpage == '/tu-ritual-de-belleza/' ){ echo 'active'; } ?>" >ALIMENTACIÓN</a></li>
             </ul>
         </nav>
 
