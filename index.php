@@ -73,7 +73,7 @@
               <img  src="build/img/cuida-de-la-piel-seca.jpg" alt="Tu piel ">
               <div  class=" card-body  " >
                   <h2 >ESPECIALISTAS EN PIEL</h2>
-                  <p >cuida de la <br class="hide-mo">
+                  <p >Cuidados de la <br class="hide-mo">
                     piel seca</p>
               </div>
           </a>
