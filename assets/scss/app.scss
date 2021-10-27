@@ -8,6 +8,7 @@
 @import "partials/font"; 
 @import "partials/base"; 
 @import "partials/variables"; 
+@import "partials/hacks"; 
 @import "layout/header"; 
 
 @layer components{
@@ -17,7 +18,7 @@
         
     }
     .menu{
-        @apply flex m-0 text-heading space-x-6 lg:space-x-10;
+        @apply flex m-0 text-heading space-x-6 lg:space-x-7;
         li{
             a{
                 @apply font-bold align-middle text-[18.36px] tracking-wider ;

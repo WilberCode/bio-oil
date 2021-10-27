@@ -74,7 +74,9 @@
       
 
   </main> 
-
+  <!-- [ GLOBAL FOOTER ] --> 
+  <?php include '../includes/footer.php' ?>
+  <!-- [ /GLOBAL FOOTER ] -->
     <script src="../build/js/app.js"></script>
 </body>
 </html>
