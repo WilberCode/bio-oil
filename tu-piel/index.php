@@ -18,8 +18,7 @@
 	<meta property="og:description" content="Aunque nos cueste aceptarlo, la piel es el reflejo de nuestra alimentación, por lo que debemos prestar especial atención a lo que ingerimos">
 	<meta property="og:image" content="../build/img/piel-4.jpg"> 
   <link rel="stylesheet" href="../build/css/app.css?v=8">
-
-
+ 
 </head>
 <body> 
   <!-- [ GLOBAL HEADER ] --> 
