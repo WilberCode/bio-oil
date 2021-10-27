@@ -16,7 +16,7 @@
 	<meta property="og:url" content=https://adretail.pe/bio/blog/>
 	<meta property="og:description" content="“Quiero vivir intensamente con Bio Oil”">
 	<meta property="og:image" content="build/img/comprar-gel.jpg">
-  <link rel="stylesheet" href="build/css/app.css?v=5">
+  <link rel="stylesheet" href="build/css/app.css?v=7">
 
 
 </head>

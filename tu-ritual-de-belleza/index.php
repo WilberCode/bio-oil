@@ -16,7 +16,7 @@
 	<meta property="og:url" content="https://adretail.pe/bio/blog/tu-ritual-de-belleza/">
 	<meta property="og:description" content="Aunque nos cueste aceptarlo, la piel es el reflejo de nuestra alimentación, por lo que debemos prestar especial atención a lo que ingerimos">
 	<meta property="og:image" content="../build/img/imagen1.jpg">
-  <link rel="stylesheet" href="../build/css/app.css?v=5">
+  <link rel="stylesheet" href="../build/css/app.css?v=6">
 
 
 </head>
