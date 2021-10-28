@@ -91,7 +91,7 @@
       <div class="container">
         <article class="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 gap-x-[17.52px] gap-y-[17.50px] place-content-center   ">
           <a class="card" href="tu-piel" >
-              <img  src="build/img/cuida-de-la-piel-seca.jpg" alt="Tu piel ">
+              <img  src="build/img/especialistas.jpg" alt="Tu piel ">
               <div  class=" card-body  " >
                   <h2 >ESPECIALISTAS</h2>
                   <p >Cuidados de la <br class="hide-mo">
