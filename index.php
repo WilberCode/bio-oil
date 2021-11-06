@@ -58,8 +58,8 @@
                   </h3>
                   <div class="flex flex-row sm:flex-col space-x-3 sm:space-x-0 sm:space-y-5 items-center sm:mt-10">
                      
-                     <a href="https://www.facebook.com/BioOilPeru/"><img src="/build/svg/facebook.svg " class=" w-10  sm:w-[51.06px]  h-10  sm:h-[51.06px]" alt="Facebook"></a>
-                     <a href="https://www.instagram.com/biooilperu/"><img src="/build/svg/instagram.svg " class=" w-10 sm:w-[51.06px]  h-10   sm:h-[51.06px]" alt="Instagram"></a>
+                     <a href="https://www.facebook.com/BioOilPeru/"><img src="./build/svg/facebook.svg " class=" w-10  sm:w-[51.06px]  h-10  sm:h-[51.06px]" alt="Facebook"></a>
+                     <a href="https://www.instagram.com/biooilperu/"><img src="./build/svg/instagram.svg " class=" w-10 sm:w-[51.06px]  h-10   sm:h-[51.06px]" alt="Instagram"></a>
                   </div>
             </div>
           </div>
