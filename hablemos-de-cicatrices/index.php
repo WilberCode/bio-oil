@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>La Alimentación: Tu ritual de belleza -Bio-Oil</title>
+  <title>Hablemos de las cicatrices - Bio-Oil</title>
   <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon"> 
   <link rel="canonical" href="https://adretail.pe/bio/blog/tu-ritual-de-belleza/" />
   <meta name="keywords" content="Bio-oil, nuevas tiendas boticas,cremas bio oil, aciete bio oil,bio oil peru,bio oil lima, promociones bio oil">
