@@ -26,8 +26,8 @@
   <?php include '../includes/header.php' ?>
   <!-- [ /GLOBAL HEADER ] -->
   <main class="w-full mt-16 sm:mt-20 mb-20 max-w-[958.11px] mx-auto px-4 lg:px-0 blog-post " > 
-      <h1  class="lg:text-[49.31px] text-center leading-[1] text-primary-500" >Hablemos de las cicatrices:
-      <br>¿por qué aparecen y cómo tratarlas con Bio-Oil?</h1> 
+      <h1  class="lg:text-[49.31px] text-center leading-[1] text-primary-500 br-wrap" >Hablemos de las cicatrices:
+      <br>¿por qué aparecen y cómo tratarlas <br  > con Bio-Oil?</h1> 
         <div class="lg:text-[23.69px] my-7 space-y-5 text-heading " > 
           <p><em>Hoy te contamos cómo hacerle frente a las cicatrices y cuáles son los beneficios de Bio-Oil para atenuarlas.</em></p>
           <p>¡Todas las cicatrices se pueden mejorar! Sí, no existe ninguna cicatriz que no pueda atenuarse…</p>

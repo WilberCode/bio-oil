@@ -21,16 +21,16 @@
           </button>
       </div>   
        <nav class="  flex  md:mr-auto pl-10 " >
-            <ul class="menu">
-              <li><a class="  <?php  if( !$isHome ){ echo 'active'; } ?>" href="/">¿DÓNDE COMPRO?</a></li>  
+            <ul class="menu"> 
+              <li><a class=" <?php  if( $currentpage == '/donde-compro/' ){ echo 'active'; } ?>" href="/donde-compro">¿DÓNDE COMPRO?</a></li>  
             </ul>
         </nav>
         <nav class="nav" id="nav">
             <ul class="menu">
               <?php  //if( $isHome ) { echo '<li><a href="/">HOME</a></li>'; } ?>  
-              <li><a href="#">BIO OIL</a></li>
+              <li><a href="/" class="<?php  if( !$isHome ){ echo 'active'; } ?>" >BIO OIL</a></li>
               <li><a href="<?=theDomainUrl();?>/tu-piel" class="<?php  if( $currentpage == '/tu-piel/' ){ echo 'active'; } ?>" >ESPECIALISTAS</a></li>
-              <li><a href="#">BELLEZA</a></li>
+              <li><a href="<?=theDomainUrl();?>/hablemos-de-cicatrices" class="<?php  if( $currentpage == '/hablemos-de-cicatrices/' ){ echo 'active'; } ?>">BELLEZA</a></li>
               <li><a href="<?=theDomainUrl();?>/tu-ritual-de-belleza"  class="<?php  if( $currentpage == '/tu-ritual-de-belleza/' ){ echo 'active'; } ?>" >BIENESTAR</a></li>
             </ul>
         </nav>

@@ -98,7 +98,7 @@
                     piel seca</p>
               </div>
           </a>
-          <a class="card" href="tu-ritual-de-belleza/" >
+          <a class="card" href="/hablemos-de-cicatrices/" >
               <img  src="build/img/belleza.jpg" alt="Tu piel ">
               <div  class=" card-body  " >
                   <h2 >BELLEZA</h2>
