@@ -16,7 +16,7 @@
 	<meta property="og:url" content="https://adretail.pe/bio/blog/tu-ritual-de-belleza/">
 	<meta property="og:description" content="Aunque nos cueste aceptarlo, la piel es el reflejo de nuestra alimentación, por lo que debemos prestar especial atención a lo que ingerimos">
 	<meta property="og:image" content="./build/tiendas/imagen1.jpg">
-  <link rel="stylesheet" href="../build/css/app.css?v=9">
+  <link rel="stylesheet" href="../build/css/app.css?v=10">
 
 
 </head>
@@ -37,7 +37,7 @@
       </header>
     
 
-      <main  class="max-w-[1200px] mx-auto  maxstore:px-4 px-4" >
+      <main  class="max-w-[1200px] mx-auto  maxstore:px-2 px-4" >
         <h2 class=" text-base md:text-[21px] font-bold bg-primary-500 text-white bg-opacity-[55%] tracking-wider inline-flex pl-4 sm:pl-[68px] py-1 pr-8 maxsm:mt-[24px]  " >Encuentra Bio Oil ONLINE</h2>
     
           <section  class="mt-[42px] max-w-store" >
