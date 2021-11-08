@@ -53,7 +53,7 @@
               <a href="https://www.bupmaternity.com.pe/cuidado-de-la-piel/dry-skin-gel-bio-oil"> <img src="/build/tiendas/bup.png" onclick="_gaq.push(['_trackEvent', 'Bup', 'Enlace Saliente', 'Bup']);" alt="Bup"> </a>
               <a href="https://bit.ly/36Ipv0W"> <img src="/build/tiendas/falabella.png" onclick="_gaq.push(['_trackEvent', 'Falabella', 'Enlace Saliente', 'Falabella']);" alt="Falabella"> </a>
               <a href="https://www.plazavea.com.pe/bio-oil?filter=B%3a40222712"> <img src="/build/tiendas/plazavea.png" onclick="_gaq.push(['_trackEvent', 'Plaza Vea', 'Enlace Saliente', 'Plaza Vea']);" alt="Plaza Vea"> </a>
-              <a href="https://boticasperu.pe/catalogsearch/result/?q=bio+oil"> <img src="/build/tiendas/boticas-peru.png" onclick="_gaq.push(['_trackEvent', 'Boticas peru', 'Enlace Saliente', 'Boticas peru']);" alt="Boticas peru"> </a>
+              <a href="https://boticasperu.pe/catalogsearch/result/?q=bio+oil"> <img src="/build/tiendas/boticas-peru-nuevo.png" onclick="_gaq.push(['_trackEvent', 'Boticas peru', 'Enlace Saliente', 'Boticas peru']);" alt="Boticas peru"> </a>
               <a href="https://www.aruma.pe/busca?ft=bio%20oil"> <img src="/build/tiendas/aruma.png" onclick="_gaq.push(['_trackEvent', 'Aruma', 'Enlace Saliente', 'Aruma']);" alt="Aruma"> </a>
             </div>
           </section>
@@ -68,7 +68,7 @@
               <article> <img src="/build/tiendas/aruma.png"  alt="Aruma"> </article>
               <article> <img src="/build/tiendas/pharmax.png" alt="Pharmax"> </article>
               <article> <img src="/build/tiendas/farmamia.png"   alt="Farmamia"> </article>
-              <a href="https://adretail.pe/bio/landing4/boticas-peru/" onclick="_gaq.push(['_trackEvent', 'Boticas peru', 'Enlace Saliente', 'Boticas peru']);"> <img src="/build/tiendas/boticas-peru.png"  alt="Boticas peru"> </a>
+              <a href="https://adretail.pe/bio/landing4/boticas-peru/" onclick="_gaq.push(['_trackEvent', 'Boticas peru', 'Enlace Saliente', 'Boticas peru']);"> <img src="/build/tiendas/boticas-peru-nuevo.png"  alt="Boticas peru"> </a>
 
             </div>
           </section> 
