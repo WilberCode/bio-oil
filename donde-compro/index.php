@@ -68,6 +68,8 @@
               <article> <img src="/build/tiendas/aruma.png"  alt="Aruma"> </article>
               <article> <img src="/build/tiendas/pharmax.png" alt="Pharmax"> </article>
               <article> <img src="/build/tiendas/farmamia.png"   alt="Farmamia"> </article>
+              <a href="https://adretail.pe/bio/landing4/boticas-peru/" onclick="_gaq.push(['_trackEvent', 'Boticas peru', 'Enlace Saliente', 'Boticas peru']);"> <img src="/build/tiendas/boticas-peru.png"  alt="Boticas peru"> </a>
+
             </div>
           </section> 
           <section  class="  max-w-store" >
