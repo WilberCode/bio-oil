@@ -106,7 +106,7 @@
                     y embellecen</p>
               </div>
           </a>
-          <a class="card" href="#" >
+          <article class="card"   >
               <img  src="build/img/alimentacion.jpg" alt="Tu piel ">
               <div  class=" card-body  " >
                   <h2 >BIENESTAR</h2>
@@ -114,7 +114,7 @@
                     muestra en tu piel
                     </p> -->
               </div>
-          </a>
+          </article>
       </article>
       </div>
     </main> 
