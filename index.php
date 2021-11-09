@@ -89,7 +89,7 @@
     </div>
     <main class="mt-10 sm:mt-[61.43px]" >
       <div class="container">
-        <article class="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 gap-x-[17.52px] gap-y-[17.50px] place-content-center   ">
+        <article class="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 gap-x-[17.52px] gap-y-[17.50px] place-content-center">
           <a class="card" href="tu-piel" >
               <img  src="build/img/especialistas.jpg" alt="Tu piel ">
               <div  class=" card-body  " >
@@ -106,7 +106,7 @@
                     y embellecen</p>
               </div>
           </a>
-          <a class="card" href="tu-ritual-de-belleza/" >
+          <a class="card" href="#" >
               <img  src="build/img/alimentacion.jpg" alt="Tu piel ">
               <div  class=" card-body  " >
                   <h2 >BIENESTAR</h2>
