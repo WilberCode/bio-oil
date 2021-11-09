@@ -106,15 +106,15 @@
                     y embellecen</p>
               </div>
           </a>
-        <!--   <a class="card" href="tu-ritual-de-belleza/" >
+          <a class="card" href="tu-ritual-de-belleza/" >
               <img  src="build/img/alimentacion.jpg" alt="Tu piel ">
               <div  class=" card-body  " >
                   <h2 >BIENESTAR</h2>
-                  <p >Lo que comes se <br class="hide-mo" >
+                 <!--  <p >Lo que comes se <br class="hide-mo" >
                     muestra en tu piel
-                    </p>
+                    </p> -->
               </div>
-          </a> -->
+          </a>
       </article>
       </div>
     </main> 

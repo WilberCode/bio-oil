@@ -31,7 +31,7 @@
               <li><a href="/" class="<?php  if( !$isHome ){ echo 'active'; } ?>" >BIO OIL</a></li>
               <li><a href="<?=theDomainUrl();?>/tu-piel" class="<?php  if( $currentpage == '/tu-piel/' ){ echo 'active'; } ?>" >ESPECIALISTAS</a></li>
               <li><a href="<?=theDomainUrl();?>/hablemos-de-cicatrices" class="<?php  if( $currentpage == '/hablemos-de-cicatrices/' ){ echo 'active'; } ?>">BELLEZA</a></li>
-              <li><a href="<?=theDomainUrl();?>/#"  class="<?php  if( $currentpage == '/tu-ritual-de-belleza/' ){ echo 'active'; } ?>" >BIENESTAR</a></li>
+              <li><a href="<?=theDomainUrl();?>/tu-ritual-de-belleza/"  class="<?php  if( $currentpage == '/tu-ritual-de-belleza/' ){ echo 'active'; } ?>" >BIENESTAR</a></li>
             </ul>
         </nav>
 
