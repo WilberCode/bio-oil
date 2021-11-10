@@ -7,15 +7,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Hablemos de las cicatrices - Bio-Oil</title>
   <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon"> 
-  <link rel="canonical" href="https://adretail.pe/bio/blog/tu-ritual-de-belleza/" />
+  <link rel="canonical" href="https://adretail.pe/bio/blog/hablemos-de-cicatrices/" />
   <meta name="keywords" content="Bio-oil, nuevas tiendas boticas,cremas bio oil, aciete bio oil,bio oil peru,bio oil lima, promociones bio oil">
-	<meta name="description" content="Aunque nos cueste aceptarlo, la piel es el reflejo de nuestra alimentación, por lo que debemos prestar especial atención a lo que ingerimos">
+	<meta name="description" content="Hoy te contamos cómo hacerle frente a las cicatrices y cuáles son los beneficios de Bio-Oil para atenuarlas.">
 	<meta property="og:type" content="website">
 	<meta property="og:title" content="Hablemos de las cicatrices">
 	<meta property="og:site_name" content="Blog Bio-Oil">
 	<meta property="og:url" content="https://adretail.pe/bio/blog/tu-ritual-de-belleza/">
-	<meta property="og:description" content="Aunque nos cueste aceptarlo, la piel es el reflejo de nuestra alimentación, por lo que debemos prestar especial atención a lo que ingerimos">
-	<meta property="og:image" content="../build/img/imagen1.jpg">
+	<meta property="og:description" content="Hoy te contamos cómo hacerle frente a las cicatrices y cuáles son los beneficios de Bio-Oil para atenuarlas.">
+	<meta property="og:image" content="../build/img/bio-oil-piel.jpg">
   <link rel="stylesheet" href="../build/css/app.css?v=8">
 
 
@@ -57,7 +57,7 @@
         <div class="lg:text-[23.69px] my-7 space-y-5 text-heading  " > 
         <p>Como cuenta el doctor <a href="https://gwiegering.com/"><strong>Guillermo Wiegering</strong></a><strong> </strong>en una charla exclusiva para <a href="https://www.facebook.com/BioOilPeru/videos/699251290654063">Bio-Oil Perú,</a> “en piel seca, de personas mayores, o con quemaduras e injertos, Bio-Oil en gel es lo mejor; mientras que, en pieles normales, Bio-Oil en aceite es excelente”.</p>
         <p>Finalmente y no menos importante, hay que recalcar que cada cicatriz es diferente: se debe visitar a un especialista para encontrar la técnica más adecuada para cada tipo de piel.</p>  
-        <p><strong>¿Dónde comprar Bio-Oil? </strong>¡Regalate bienestar! Encuentra los puntos de venta de Bio-Oil Perú, <a href="https://adretail.pe/bio/landing3/">aquí.</a></p>
+        <p><strong>¿Dónde comprar Bio-Oil? </strong>¡Regálate bienestar! Encuentra los puntos de venta de Bio-Oil Perú, <a href="https://adretail.pe/bio/landing3/">aquí.</a></p>
       </div>
   </main> 
   <!-- [ GLOBAL FOOTER ] --> 
